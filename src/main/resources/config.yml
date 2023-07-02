@@ -1,0 +1,14 @@
+# restore TNT explosions?
+restore_tnt: false
+
+#restore Bed explosions in the nether?
+restore_bed: false
+
+#restore End Crystal explosions?
+restore_end_crystal: false
+
+# which mobs explosions should cause the world to regenerate?
+# Wither explosions are caused by WITHER_SKULL
+# Ghast explosions are caused by FIREBALL
+restore_mobs:
+  - CREEPER
